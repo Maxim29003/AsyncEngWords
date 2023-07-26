@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz/
+*.pyw/
+
+# Environment
+myvenv/
+env/
+env.bak/
+*.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Audio files
+*.mp3
+
+# MongoDB data directory (change as needed)
+/data/db/
+
+# Miscellaneous
+*.swp
+*.swo
+.DS_Store
+*.json
